@@ -4,6 +4,10 @@ p {
 	color: rgb(255,0,0);
 }
 
+p:first-of-type {
+	color: green;
+	/*background: lightblue;*/
+}
 
 li {
 	color:blue;
