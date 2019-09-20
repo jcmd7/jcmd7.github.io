@@ -6,12 +6,12 @@ p {
 }
 
 
-#title {
+title {
 	background: red;
 	margin: 0px;
 	text-align: center;
 }
 
-body{
+#body{
 	background-color: skyblue;
 }
