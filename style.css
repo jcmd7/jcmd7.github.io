@@ -6,7 +6,7 @@ p {
 }
 
 p:first-of-type {
-	color: green;
+	color: Red;
 	/*background: lightblue;*/
 }
 
