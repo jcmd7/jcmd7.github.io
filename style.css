@@ -1,12 +1,12 @@
 /* style.css */
 
 p {
-	color: red;
+	color: rgb(255,0,0);
 }
 
 
 li {
-	color:red;
+	color:blue;
 }
 
 ol.menu {
@@ -24,7 +24,7 @@ li.menu {
 }
 
 li.menu:hover {
-	background: red;
+	background: lightblue;
 }
 
 .mydiv {
@@ -50,7 +50,6 @@ div.menu {
 
 h1 {
 	padding: 0px;
-	color: red;
 }
 
 span.harry {
