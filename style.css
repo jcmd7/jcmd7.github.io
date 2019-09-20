@@ -1,7 +1,7 @@
 /* style.css */
 
 p {
-	color: rgb(255,0,0);
+	color: red;
 }
 
 }
@@ -9,5 +9,6 @@ p {
 h1 {
 	padding: 0px;
 	background-color: white;
+	text-align: center;
 }
 
