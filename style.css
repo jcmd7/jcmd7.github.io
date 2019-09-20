@@ -1,7 +1,7 @@
 /* style.css */
 
 p {
-	color: red;
+	color: blue;
 }
 
 }
@@ -9,6 +9,14 @@ p {
 h1 {
 	padding: 0px;
 	background-color: white;
-	text-align: center;
+	text-align: left;
 }
 
+body {
+  background-color: yellow;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
