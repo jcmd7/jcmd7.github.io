@@ -1,16 +1,12 @@
 /* style.css */
 
 p {
-	color: rgb(255,0,0);
+	color: red;
 }
 
-p:first-of-type {
-	color: green;
-	/*background: lightblue;*/
-}
 
 li {
-	color:blue;
+	color:red;
 }
 
 ol.menu {
