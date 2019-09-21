@@ -25,9 +25,12 @@ header {
 }
 
 picture {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	height:300px 
 	width: 500px
-	center
+	
 }
 
 @media only screen and (max-width: 600px) {
