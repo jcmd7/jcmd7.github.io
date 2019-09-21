@@ -11,25 +11,32 @@ p {
 h1 {
 	padding: 0px;
 	background-color: white;
-	text-align: left;
+	text-align: center;
 }
 
 body {
   background-color: white;
 }
 
-header {
+li.menu {
 	padding: 15px
 	font-size:20px;
+	text-align: center;
 	
 }
 
 picture {
-	align-content: middle;
+	display: block;
+	margin: 0 auto;
 	
+}
+
+span.basketball {
+	color:red;
 }
 
 @media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
+
   }
