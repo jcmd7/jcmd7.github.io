@@ -35,6 +35,7 @@ picture {
 
 span.Sport {
 	color:red;
+	font-weight: bold;
 }
 
 @media only screen and (max-width: 600px) {
