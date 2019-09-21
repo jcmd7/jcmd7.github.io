@@ -9,7 +9,8 @@ text {
 }
 
 #title {
-	padding: 0px;
+	padding: 25px;
+	background-color: white;
 	text-align: center;
 	color: blue;
 }
