@@ -24,6 +24,12 @@ header {
 	
 }
 
+picture {
+	height:300px 
+	width: 300px
+	center
+}
+
 @media only screen and (max-width: 600px) {
   body {
     background-color: lightblue;
