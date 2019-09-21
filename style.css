@@ -16,7 +16,7 @@ body {
   background-color: white;
 }
 
-li.menu {
+ol.menu {
 	padding: 15px
 	font-size:20px;
 	text-align: center;
