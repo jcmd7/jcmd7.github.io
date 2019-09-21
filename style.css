@@ -1,12 +1,12 @@
 /* style.css */
 
 text {
-	color: blue;
-	margin: 0px;
+	background-color: lightblue;
+	color: black;
 	text-align: center;
 }
 
-h1 {
+title {
 	text-align: center;
 	color: blue;
 }
