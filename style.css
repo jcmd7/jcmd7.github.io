@@ -8,9 +8,8 @@ text {
 
 }
 
-title.h1 {
-	padding: 25px;
-	background-color: white;
+#title {
+	padding: 0px;
 	text-align: center;
 	color: blue;
 }
