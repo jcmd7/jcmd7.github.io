@@ -23,12 +23,13 @@ body {
 ul {
 	text-align: center;
 	
-	
-}
 
+}
+	
 
 .middle.p{
 	float: right;
+	color:black;
 }
 
 ol {
