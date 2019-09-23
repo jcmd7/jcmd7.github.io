@@ -10,6 +10,10 @@ p, h1 {
 
 }
 
+#content.p{
+	float: right;
+}
+
 
 
 
@@ -25,10 +29,12 @@ body {
 
 ul {
 	text-align: center;
-	
 
 }
-	
+
+ul:hover {
+	color: red;
+}
 
 .middle.p{
 	float: right;
