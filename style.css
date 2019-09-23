@@ -26,6 +26,11 @@ ul {
 	
 }
 
+
+.middle.p{
+	float: right;
+}
+
 ol {
 	color: red;
 }
