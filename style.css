@@ -12,6 +12,11 @@ p, h1 {
 
 #content.p{
 	float: right;
+	background-color: white;
+	color: blue;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
 }
 
 
