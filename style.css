@@ -1,6 +1,6 @@
 /* style.css */
 
-p, h1 {
+#text.p, h1 {
 	background-color: white;
 	color: blue;
 	text-align: center;
@@ -10,9 +10,8 @@ p, h1 {
 
 }
 
-p1 {
-	color: red;
-}
+
+
 
 #title {
 	text-align: center;
