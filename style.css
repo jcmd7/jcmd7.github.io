@@ -22,8 +22,12 @@ body {
 
 ul {
 	text-align: center;
-	color: red;
 	
+	
+}
+
+ol {
+	color: red;
 }
 
 picture {
