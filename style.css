@@ -9,7 +9,7 @@ p, h1 {
 	
 }
 
-.header h1:hover {
+h1.header:hover {
 	color:red;
 }
 
