@@ -9,7 +9,7 @@ p, h1: {
 	
 }
 
-#content.p{
+#content.p {
 	background-color: white;
 	color: blue;
 	text-align: center;
@@ -18,7 +18,7 @@ p, h1: {
 
 }
 
-#menu a:hover{
+#menu a:hover {
 	color:red;
 }
 
