@@ -31,16 +31,12 @@ ul {
 
 }
 
+a{
+	color: blue;
 
-
-.middle.p{
-	float: right;
 	color:black;
 }
 
-ol {
-	color: red;
-}
 
 picture {
 	display: block;
