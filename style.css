@@ -7,8 +7,8 @@ p, h1: {
 	margin: 0px;
 	padding: 0px;
 	
-
 }
+
 #content.p{
 	background-color: white;
 	color: blue;
@@ -18,9 +18,11 @@ p, h1: {
 
 }
 
-a.nav{
-  color: gold;
+#menu a:hover{
+	color:red;
 }
+
+
 
 
 #title {
