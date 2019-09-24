@@ -18,7 +18,7 @@ p, h1: {
 
 }
 
-#menu a:hover {
+#title a:hover {
 	color:red;
 }
 
@@ -41,9 +41,6 @@ ul {
 
 }
 
-h1:hover {
-	color: red;
-}
 
 
 .middle.p{
