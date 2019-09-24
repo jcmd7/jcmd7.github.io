@@ -9,6 +9,14 @@ p, h1: {
 	
 
 }
+#content.p{
+	background-color: white;
+	color: blue;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+
+}
 
 a.nav{
   color: gold;
