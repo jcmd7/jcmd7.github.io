@@ -9,13 +9,8 @@ p, h1: {
 	
 }
 
-#content.p {
-	background-color: white;
-	color: blue;
-	text-align: center;
-	margin: 0px;
-	padding: 0px;
-
+.header h1:hover {
+	color:red;
 }
 
 
