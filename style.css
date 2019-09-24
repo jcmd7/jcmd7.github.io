@@ -37,10 +37,6 @@ ul {
 
 }
 
-ul:hover {
-	color: red;
-}
-
 .middle.p{
 	float: right;
 	color:black;
